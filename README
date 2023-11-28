@@ -1,0 +1,9 @@
+Version : 16.0.0.1
+Date : 07/03/23
+    - Fxied the issue of in maifacrturing report show double content for width and height label.
+
+Version : 16.0.0.2
+Date : 19/07/23
+    - Added dimensions into invoice, bills and manufacturing order printout
+    
+=> 16.0.0.3 : Improved an index as per v16 enterprise edition.
